@@ -1,6 +1,6 @@
 # Notes: my design log
 
-**Live URL (Vercel):** _paste your deployed link here_
+**Live URL (Vercel):** https://lab-tech-shop-cfk1t0gsy-sevinc1003s-projects.vercel.app
 
 > Fill in each section as you build. Keep it short and honest. We grade the
 > reasoning, not the word count. Delete these quote lines as you go.
